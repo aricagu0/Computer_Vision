@@ -76,8 +76,9 @@
 ## 📈 결과
 
 - **Test Set 탐지 인식률**: 약 30% ~ 77% 범위
+ ![](clover_detect.jpg)
 - **실시간 검증**: Ultralytics 플랫폼을 활용해 스마트폰으로 실시간 클로버 인식 테스트 진행 (정상 검출 / 오검출 케이스 확인)
-  ![]"clover_detect.jpg"
+ 
 
 ---
 
@@ -96,5 +97,5 @@
 ---
 
 ## 🎬 데모 영상
-
+![](clover_detect_android.gif)
 안드로이드 앱 시연 영상: [YouTube Shorts 바로가기](https://youtube.com/shorts/BP7Pazm5U9k)
