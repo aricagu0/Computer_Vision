@@ -2,8 +2,8 @@
 
 > 선택적 제초로봇을 위한 클로버 탐지 모델 개발 프로젝트
 
-**발표일**: 2026년 6월 16일
-
+### 발표일: 2026년 6월 16일
+[![PPT 보기](https://img.shields.io/badge/발표자료-PPT_보기-B7472A?logo=microsoftpowerpoint&logoColor=white)](https://docs.google.com/presentation/d/1eM4rUyU4qLjgUhv7yqxkB42MPPsiW8vp/edit?usp=sharing&ouid=108024470088175786848&rtpof=true&sd=true)
 ---
 
 ## 📌 프로젝트 개요
